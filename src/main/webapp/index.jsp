@@ -12,7 +12,7 @@
         <title>JAAS Trial</title>
     </head>
     <body>
-        <h1>Sample JAAS Application</h1>
+        <h1>Sample JAAS based JavaEE Application</h1>
         <form action="login.jsp">
             <input type="submit" value="login" />
         </form>
